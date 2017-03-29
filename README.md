@@ -16,7 +16,7 @@ brew install https://raw.githubusercontent.com/Homebrew/homebrew-fuse/master/For
 
 ## Acceptable Formulae.
 
-You can read Homebrew’s Acceptable Formulae document [here](https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Acceptable-Formulae.md).
+You can read Homebrew’s Acceptable Formulae document [here](https://github.com/Homebrew/brew/blob/master/docs/Acceptable-Formulae.md).
 
 ## Troubleshooting
 First, please run `brew update` and `brew doctor`.
